@@ -1,0 +1,145 @@
+input{
+    outline: none;
+}
+button{
+    outline: none;
+}
+li{
+	overflow: visible;
+}
+
+.cellImg{
+	width: 300px;
+	height: 300px;
+	background-image: url(../images/1.jpg);
+	background-size:cover;
+	border-style: solid;
+	border-color: #1E1E1E;
+	border-width: 15px;
+	border-radius: 3px;
+	transform: rotate(45deg);
+	z-index: 3;
+	position: relative;
+	box-shadow:0px 0px 3px #1E1E1E;
+}
+.cellImg:hover{
+	cursor: pointer;
+	box-shadow: 0px 0px 100px #836FFF;
+}
+.GameNameLabel{
+	width:200px;
+	height:40px;
+	background-image: url(../images/ui/cell.png);
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	border-radius: 3px;
+	z-index: 3;
+	left:50px;
+	top: -30px;
+	position: relative;
+    box-shadow:0px 0px 3px #1E1E1E;
+}
+.GameName{
+	font-size: 20px;
+	color: white;
+}
+.PlayBuyBtn,
+.PlayBuyBtn:focus{
+	width:100px;
+	height:40px;
+	background-color: #EEEEE0;
+	z-index: 3;
+	left:100px;
+	top: -27px;
+	position: relative;
+	color:#99d220;
+	font-size: 15px;
+    border-style:none;
+    border-radius:3px;
+    box-shadow:0px 0px 3px #C9C9C9;
+}
+.PlayBuyBtn:active{
+    background-color: #e7e7d5;
+    color:#8fc31f;
+}
+.PlayBuyBtn:hover{
+	box-shadow:0px 0px 3px grey;
+}
+
+
+
+.infoDiv{
+	width:0px;
+	height:300px;
+	background-color: #262626;
+	z-index: 2;
+	position: absolute;
+    border-radius:3px;
+	box-shadow:0px 0px 3px black;
+	left:210px;
+	overflow: hidden;
+}
+.infoVideo{
+	width:480px;
+	height:270px;
+	background-color:#262626;
+	position: absolute;
+	top:15px;
+	right:15px;
+}
+.commentBar{
+	width:20px;
+	height:200px;
+	border-radius: 3px;
+	position: absolute;
+	top:10px;
+	right:510px;
+}
+.addGood{
+	width:20px;
+	height:10px;
+}
+.good{
+	background-color:#9cee00;
+	width:20px;
+	height:120px;
+	border-top-left-radius:3px;
+	border-top-right-radius:3px;
+}
+.bad{
+	background-color:#ee4800;
+	width:20px;
+	height:120px;
+	border-bottom-left-radius:3px;
+	border-bottom-right-radius:3px;
+}
+.addBad{
+	width:20px;
+	height:10px;
+}
+.classification{
+	width:80px;
+	height: 80px;
+	color:white;
+	position: absolute;
+	text-align: center;
+	top:190px;
+	right:550px;
+}
+.classificationIcon{
+	width:80px;
+	height: 80px;
+}
+.infoLabel{
+	color:white;
+	position: absolute;
+	top:15px;
+	right:525px;
+	list-style-image: url(../images/ui/infoListIcon.png);
+	color:#dac79f;
+}
+.infoLabelList{
+	font-size:12px;
+	width:120px;
+}

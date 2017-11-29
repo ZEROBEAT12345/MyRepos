@@ -1,0 +1,135 @@
+.loginDiv{
+	width:0px;
+	height:0px;
+	position: absolute;
+	top:0px;
+	overflow: hidden;
+	z-index: 7;
+	opacity: 0;
+}
+.LoginBKG{
+	background-color: #1E1E1E;
+	position: absolute;
+	left:0px;
+	right: 0px;
+	top:0px;
+	bottom: 0px;
+	z-index: 7;
+	opacity: 0.8;
+}
+.loginImg{
+	width:300px;
+	height: 300px;
+	transform: rotate(45deg);
+	background-image: url(../images/ui/userLib.png);
+	background-size: cover;
+	border-style: solid;
+	border-width: 15px;
+	border-radius: 3px;
+	border-color: #1E1E1E;
+	position: absolute;
+	left: 600px;
+	top:200px;
+	z-index: 7;
+}
+.loginTitle{
+	color:white;
+	width:150px;
+	height:60px;
+	background-image: url(../images/ui/cell.png);
+	display:flex;
+	font-size: 40px;
+	justify-content:center;
+	align-items:center;
+	border-radius: 3px;
+	position: absolute;
+	z-index: 7;
+	left:675px;
+	top:180px;
+}
+.accountLabel{
+	width:400px;
+	height:50px;
+	background-image: url(../images/ui/cell.png);
+	display:flex;
+	font-size: 20px;
+	justify-content:center;
+	align-items:center;
+	border-radius: 3px;
+	position: absolute;
+	z-index: 7;
+	left:550px;
+	top:380px;
+}
+.passwordLabel{
+	width:400px;
+	height:50px;
+	background-image: url(../images/ui/cell.png);
+	display:flex;
+	font-size: 20px;
+	justify-content:center;
+	align-items:center;
+	border-radius: 3px;
+	position: absolute;
+	z-index: 7;
+	left:550px;
+	top:440px;
+}
+.account{
+	color:white;
+}
+.password{
+	color:white;
+}
+.accountBar{
+	position: relative;
+	left: 5px;
+	width:280px;
+	border-radius: 5px;
+}
+.passwordBar{
+	position: relative;
+	left: 5px;
+	width:280px;
+	border-radius: 5px;
+}
+.loginBtn,
+.loginBtn:focus{
+	position: absolute;
+	z-index: 7;
+	left:645px;
+	top:510px;
+	width:100px;
+	height:40px;
+	background-color: #EEEEE0;
+	border-style:none;
+    border-radius:3px;
+    font-size: 25px;
+}
+.loginBtn:active{
+    background-color: #e7e7d5;
+    box-shadow:0px 0px 10px #8fc31f;
+}
+.loginBtn:hover{
+	color:#8fc31f;
+}
+.loginCancelBtn,
+.loginCancelBtn:focus{
+	position: absolute;
+	z-index: 7;
+	left:755px;
+	top:510px;
+	width:100px;
+	height:40px;
+	background-color: #EEEEE0;
+	border-style:none;
+    border-radius:3px;
+    font-size: 25px;
+}
+.loginCancelBtn:active{
+    background-color: #e7e7d5;
+    box-shadow:0px 0px 10px #ee4800;
+}
+.loginCancelBtn:hover{
+	color:#ee4800;
+}

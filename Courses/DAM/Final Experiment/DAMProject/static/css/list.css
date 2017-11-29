@@ -1,0 +1,12 @@
+.backBtn{
+	font-size: 30px;
+	color:white;
+	opacity: 1;
+	position: absolute;
+	left: 20px;
+	bottom: 20px;
+}
+.backBtn:hover{
+	text-shadow: 0px 0px 5px white;
+	cursor: pointer;
+}

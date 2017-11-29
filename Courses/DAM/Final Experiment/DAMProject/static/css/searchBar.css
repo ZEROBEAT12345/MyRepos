@@ -1,0 +1,30 @@
+.searchBar{
+	width:250px;
+	height: 50px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	position: absolute;
+    z-index:7;
+}
+.searchInput{
+	border-radius: 8px;
+	border-style: solid;
+	border-width: 3px;
+}
+.searchBtn{
+	background-color: transparent;
+	background-image: url(../images/ui/search_normal.png);
+	position: absolute;
+	top:10px;
+	left:220px;
+	width:30px;
+	height: 30px;
+	border-style: none;
+}
+.searchBtn:hover{
+	cursor: pointer;
+}
+.searchBtn:active{
+	background-image: url(../images/ui/search_clicked.png);
+}

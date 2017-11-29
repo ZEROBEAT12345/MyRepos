@@ -1,0 +1,585 @@
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6b7e0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\iNetSafe.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6d5f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\dbghelp.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c9a0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74950000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\FirewallAPI.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x707f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\fwbase.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71050000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\DAVHLPR.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74410000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\COMDLG32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x69ac0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\USP10.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71060000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINSPOOL.DRV
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73b60000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\IPHLPAPI.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x738b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\Secur32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x61f80000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\DWrite.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x52f90000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome_child.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74600000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\KERNELBASE.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75390000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\KERNEL32.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c680000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\system32\apphelp.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x741a0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\msvcrt.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x743b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\bcryptPrimitives.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d60000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\CRYPTBASE.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d70000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\SspiCli.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76f40000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\RPCRT4.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75080000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\sechost.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76eb0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\ADVAPI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d50000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\VERSION.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x58830000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome_elf.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74570000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\cfgmgr32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74ec0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\combase.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74260000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\USER32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x750d0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\GDI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76dd0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\IMM32.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76e00000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\shlwapi.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x748b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\kernel.appcore.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x748c0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\shcore.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x745b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\powrprof.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75280000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\profapi.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x749b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\windows.storage.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75590000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\SHELL32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73980000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINMMBASE.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x739b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINMM.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d40000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WTSAPI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71470000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINHTTP.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x752a0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\ole32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76c80000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\OLEAUT32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74eb0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\PSAPI.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75220000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WS2_32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76ff0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\NETAPI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x737f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\NETUTILS.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71170000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\bcrypt.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x707c0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WKSCLI.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c410000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\safemon.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6b7e0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\iNetSafe.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d20000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\USERENV.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6d5f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\dbghelp.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c9a0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74950000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\FirewallAPI.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x707f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\fwbase.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71050000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\DAVHLPR.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74410000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\COMDLG32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x69ac0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\USP10.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71060000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINSPOOL.DRV
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73b60000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\IPHLPAPI.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x738b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\Secur32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x61f80000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\DWrite.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77010000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\MSASN1.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76b00000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\CRYPT32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76d20000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINTRUST.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x52f90000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome_child.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x300000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77040000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\ntdll.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74600000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\KERNELBASE.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75390000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\KERNEL32.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c680000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\system32\apphelp.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x741a0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\msvcrt.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x743b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\bcryptPrimitives.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d60000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\CRYPTBASE.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d70000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\SspiCli.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76f40000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\RPCRT4.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75080000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\sechost.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76eb0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\ADVAPI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d50000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\VERSION.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x58830000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome_elf.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74570000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\cfgmgr32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74ec0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\combase.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74260000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\USER32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x750d0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\GDI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76dd0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\IMM32.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76e00000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\shlwapi.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x748b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\kernel.appcore.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x748c0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\shcore.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x745b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\powrprof.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75280000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\profapi.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x749b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\windows.storage.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75590000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\SHELL32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73980000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINMMBASE.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x739b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINMM.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d40000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WTSAPI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71470000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINHTTP.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x752a0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\ole32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76c80000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\OLEAUT32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74eb0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\PSAPI.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75220000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WS2_32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76ff0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\NETAPI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x737f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\NETUTILS.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71170000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\bcrypt.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x707c0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WKSCLI.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c410000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\safemon.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6b7e0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\iNetSafe.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d20000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\USERENV.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6d5f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\dbghelp.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c9a0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74950000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\FirewallAPI.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x707f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\fwbase.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71050000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\DAVHLPR.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74410000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\COMDLG32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x69ac0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\USP10.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71060000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINSPOOL.DRV
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73b60000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\IPHLPAPI.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x738b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\Secur32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x61f80000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\DWrite.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77010000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\MSASN1.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76b00000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\CRYPT32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76d20000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINTRUST.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x52f90000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome_child.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x300000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77040000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\ntdll.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74600000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\KERNELBASE.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75390000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\KERNEL32.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c680000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\system32\apphelp.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x741a0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\msvcrt.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x743b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\bcryptPrimitives.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d60000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\CRYPTBASE.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d70000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\SspiCli.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76f40000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\RPCRT4.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75080000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\sechost.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76eb0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\ADVAPI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d50000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\VERSION.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x58830000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome_elf.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74570000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\cfgmgr32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74ec0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\combase.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74260000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\USER32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x750d0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\GDI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76dd0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\IMM32.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76e00000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\shlwapi.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x748b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\kernel.appcore.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x748c0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\shcore.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x745b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\powrprof.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75280000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\profapi.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x749b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\windows.storage.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75590000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\SHELL32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73980000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINMMBASE.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x739b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINMM.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d40000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WTSAPI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71470000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINHTTP.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x752a0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\ole32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76c80000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\OLEAUT32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74eb0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\PSAPI.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75220000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WS2_32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76ff0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\NETAPI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x737f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\NETUTILS.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71170000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\bcrypt.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x707c0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WKSCLI.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c410000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\safemon.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6b7e0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\iNetSafe.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d20000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\USERENV.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6d5f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\dbghelp.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c9a0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74950000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\FirewallAPI.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x707f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\fwbase.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71050000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\DAVHLPR.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74410000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\COMDLG32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x69ac0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\USP10.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71060000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINSPOOL.DRV
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73b60000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\IPHLPAPI.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x738b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\Secur32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x61f80000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\DWrite.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77010000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\MSASN1.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76b00000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\CRYPT32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76d20000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINTRUST.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x52f90000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome_child.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x300000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77040000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\ntdll.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74600000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\KERNELBASE.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75390000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\KERNEL32.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c680000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\system32\apphelp.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x741a0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\msvcrt.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x743b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\bcryptPrimitives.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d60000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\CRYPTBASE.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d70000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\SspiCli.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76f40000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\RPCRT4.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75080000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\sechost.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76eb0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\ADVAPI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d50000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\VERSION.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x58830000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome_elf.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74570000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\cfgmgr32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74ec0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\combase.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74260000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\USER32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x750d0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\GDI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76dd0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\IMM32.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76e00000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\shlwapi.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x748b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\kernel.appcore.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x748c0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\shcore.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x745b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\powrprof.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75280000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\profapi.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x749b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\windows.storage.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75590000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\SHELL32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73980000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINMMBASE.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x739b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINMM.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d40000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WTSAPI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71470000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINHTTP.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x752a0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\ole32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76c80000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\OLEAUT32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74eb0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\PSAPI.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75220000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WS2_32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76ff0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\NETAPI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x737f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\NETUTILS.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71170000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\bcrypt.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x707c0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WKSCLI.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c410000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\safemon.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6b7e0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\iNetSafe.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d20000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\USERENV.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6d5f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\dbghelp.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c9a0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74950000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\FirewallAPI.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x707f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\fwbase.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71050000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\DAVHLPR.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74410000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\COMDLG32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x69ac0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\USP10.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71060000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINSPOOL.DRV
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73b60000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\IPHLPAPI.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x738b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\Secur32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x61f80000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\DWrite.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77010000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\MSASN1.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76b00000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\CRYPT32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76d20000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINTRUST.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x52f90000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome_child.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x300000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77040000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\ntdll.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74600000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\KERNELBASE.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75390000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\KERNEL32.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c680000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\system32\apphelp.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x741a0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\msvcrt.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x743b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\bcryptPrimitives.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d60000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\CRYPTBASE.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d70000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\SspiCli.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76f40000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\RPCRT4.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75080000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\sechost.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76eb0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\ADVAPI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d50000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\VERSION.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x58830000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome_elf.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74570000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\cfgmgr32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74ec0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\combase.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74260000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\USER32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x750d0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\GDI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76dd0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\IMM32.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76e00000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\shlwapi.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x748b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\kernel.appcore.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x748c0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\shcore.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x745b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\powrprof.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75280000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\profapi.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x749b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\windows.storage.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75590000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\SHELL32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73980000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINMMBASE.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x739b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINMM.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d40000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WTSAPI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71470000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINHTTP.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x752a0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\ole32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76c80000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\OLEAUT32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74eb0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\PSAPI.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75220000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WS2_32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76ff0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\NETAPI32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x737f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\NETUTILS.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71170000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\bcrypt.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x707c0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WKSCLI.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c410000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\safemon.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6b7e0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\iNetSafe.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73d20000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\USERENV.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6d5f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\dbghelp.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c9a0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74950000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\FirewallAPI.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x707f0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\fwbase.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71050000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\DAVHLPR.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74410000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\COMDLG32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x69ac0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\USP10.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71060000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINSPOOL.DRV
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73b60000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\IPHLPAPI.DLL
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x738b0000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\Secur32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x61f80000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\DWrite.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77010000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\MSASN1.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76b00000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\CRYPT32.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76d20000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\windows\SYSTEM32\WINTRUST.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x52f90000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome_child.dll
+[1107/210647:ERROR:process_reader_win.cc(233)] ReadMemory at 0x186000 of 40960 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1107/210647:ERROR:crash_report_exception_handler.cc(98)] WriteEverything failed
+[1107/210647:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
